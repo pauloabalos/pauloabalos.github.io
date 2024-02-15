@@ -5,3 +5,7 @@ plugins:
 title: [Paulo Abalos]
 description: [ - Resume]
 logo: /images/picture1.jpg
+
+<h3 id="header-3">Header 3</h3>
+<p>Minimal is a theme for GitHub Pages.</p>
+
