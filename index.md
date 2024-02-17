@@ -2,122 +2,111 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Details
 
-[Link to another page](./another-page.html).
+Tanza, Cavite 4108 <br>
+---------------------7462 <br>
+pauloabalos08@gmail.com <br>
 
-There should be whitespace between paragraphs.
+### Educational Background
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+**Tertiary Education:** Don Bosco Technical College Mandaluyong City <br>
+**Degree Program:** Bachelor of Science in Information Technology <br>
+**Year Graduated:** 2015 <br>
 
 * * *
 
-### Here is an unordered list:
+## Employment History
+**Indra Philippines Inc.** <br>
+Tower 1 Rockwell Business Center, 1 Ortigas Ave, Pasig, 1609 Metro Manila <br>
+September 2015 to Present
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**Position:** Senior Software Engineer <br>
+**Project:** Customer Management System <br>
+**Team:** Infrastructure and Operations Management <br>
+**Duties and Responsibilities:** <br>
+- **Operations:**
+  -	Lead of assigned Team
+  - Analyzing interfaces from IBM Integration Bus (IIB)
+  - Contribution on deployment activities and post implementations from Dev environment to Production
+  - Contributing on data transition of legacy system to new system
+  - Supports business team on inquiries and Data Modifications / Data Extractions
+  - Maintains ITIL (Information Technology Infrastructure Library) standards for the day-to-day operations
+  - Maintains ISO (International Organization for Standardization) for the documentations
+  - Analyzing and Monitoring Request on a Ticket bases system
+  - Providing workarounds and contingencies for the Business Process Team.
+  - Incident Handling
+  - Problem Handling
+- **Automations:**
+  - JIRA functionality automation and minor tasks through UI Path RPA
+  - Automated data extraction through Java and Oracle SQL.
 
 
-### Definition lists can be used with HTML syntax.
+**Global Hospitality Solutions (GHS)** <br>
+12F, Trion Towers, 8th Avenue Corner, McKinley Pkwy, Taguig, Metro Manila <br>
+July to September 2015 <br>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+**Position:** IT Programmer <br>
+**Project:** Hotelier Reward System <br>
+**Duties and Responsibilities:**
+-	Responsible to assist IT head
+-	Enhance GHS’ core platform to be recognized as a preferred Loyalty Marketing Platform globally
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+* * *
 
-```
-The final element.
-```
+## Skills
+- Programming Laguages:
+  - Java 
+    - Reading: `8`
+    - Writing: `7`
+  - Oracle SQL / MySQL `9`
+  - Shell `7`
+  - UIPath `7`
+  - Python `6`
+- Data Analytics:
+  - Data Science `8`
+  - Data Story Telling `7`
+- Tools / Operating Systems:
+  - Oracle SQL Server `9`
+  - Eclipse `8`
+  - PowerBI `6`
+  - SOAP UI `7`
+  - UIPath `7`
+  - JIRA `7`
+  - Windows `9`
+  - Linux `7`
+  - Microsoft 
+    - Excel `9`
+    - Word `8`
+
+* * *
+
+## Trainings
+
+| Title        | Year          | Location |
+|:-------------|:------------------|:------|
+|Python|2022|W3Schools|
+|UIPath RPA REF Framework|2021|Udemy|
+|Robin RPA|2021|Documentation|
+|ITILv4 Online Training|2020|Udemy|
+|Google Cloud Platform (GCP)|2020|Udemy|
+|Wireshark|2019|Udemy|
+|Power BI|2019|Indra Philippines Inc|
+|ITIL Foundation v3|2018|Indra Philippines Inc|
+|Excellence in Leadership Level 1:<br> Winning Attitudes for Success|2018|Asian Institute of Management|
+|Excellence in Leadership Level 2:<br> Developing culture of Personal Excellence|2018|Asian Institute of Management|
+|Agile|2017|Indra Philippines Inc|
+|Tableau|2017|Indra Philippines Inc|
+|IIB (IBM Integration Bus)|2016|Indra Philippines Inc|
+|Advanced Excel|2016|Indra Philippines Inc|
+
+* * *
+
+## Certifications
+
+| Title        | Year          | - |         
+|:-------------|:------------------|:------|
+|CPR/AED/First Aid|2020-2022|Philippine Red Cross|
+|ITIL Foundation Level 3|2018|PeopleCert|
+
+
